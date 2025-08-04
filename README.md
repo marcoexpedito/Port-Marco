@@ -51,6 +51,7 @@ npm start
 
 ````
 💡 Dicas para Melhorar
+
 Adicione animações nos botões
 
 Crie um tema claro/escuro
@@ -60,6 +61,7 @@ Use ícones do React Native Vector Icons
 Torne o design responsivo
 
 ✨ Resultado Esperado
+
 📱 Aplicativo funcional com duas telas navegáveis
 
 🎨 Estilo personalizado e identidade própria
