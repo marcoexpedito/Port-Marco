@@ -50,23 +50,23 @@ npm install
 npm start
 
 ````
-💡 Dicas para Melhorar
+## 💡 Dicas para Melhorar
 
-Adicione animações nos botões
+- Adicione animações nos botões
 
-Crie um tema claro/escuro
+- Crie um tema claro/escuro
 
-Use ícones do React Native Vector Icons
+- Use ícones do React Native Vector Icons
 
-Torne o design responsivo
+- Torne o design responsivo
 
-✨ Resultado Esperado
+## ✨ Resultado Esperado
 
-📱 Aplicativo funcional com duas telas navegáveis
+- 📱 Aplicativo funcional com duas telas navegáveis
 
-🎨 Estilo personalizado e identidade própria
+- 🎨 Estilo personalizado e identidade própria
 
-📂 Código organizado no GitHub
+- 📂 Código organizado no GitHub
 
-👤 Autor
-Marco Expedito
+## 👤 Autor
+- Marco Expedito
